@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1 GitHub
+2 Javascript
+3 HTML
+  * Element 1
+  * Element 2
